@@ -1,0 +1,31 @@
+id: PA8E792F4
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG07635
+  instance_id: http://purl.bdrc.io/resource/IE00KG07635
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - མཁའ་ལ་འཕྱོ་བའི་ཡིད་ཀྱི་བརྩེ་རླབས།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - ai de hu huan
+  author: http://purl.bdrc.io/resource/P6970
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    cb9f92f1847f4da99d7a088650a2f5d1:
+      title: པོད ༡་མཁའ་ལ་འཕྱོ་བའི་ཡིད་ཀྱི་བརྩེ་རླབས
+      volume_number: 1
+      base_file: UT00KG07635_I00KG09992_0000.txt
+      reference: http://purl.bdrc.io/resource/VL3F069ACD4792D055
+      image_group: I00KG09992
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW00KG07635
+  - http://purl.bdrc.io/resource/W00KG07635
+  ocr_software: Namsel
+created_at: '2021-12-22T10:17:48.177847'
+last_modified_at: '2021-12-22T10:17:48.177854'
